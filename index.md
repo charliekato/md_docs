@@ -4,7 +4,7 @@ This is the document using markdown
 paragraph1
 ## section 2
 paragraph2
-```clike
+```c
 #include <stdio.h>
 int main() {
     printf("hello\n");
